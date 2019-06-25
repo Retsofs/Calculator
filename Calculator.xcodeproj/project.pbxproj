@@ -15,6 +15,7 @@
 		A80F746022AD20A300B0C205 /* CalculationModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A80F745F22AD20A300B0C205 /* CalculationModel.swift */; };
 		A80F746222AD20F600B0C205 /* CalculationPresenter.swift in Sources */ = {isa = PBXBuildFile; fileRef = A80F746122AD20F600B0C205 /* CalculationPresenter.swift */; };
 		A80F746522AD23E100B0C205 /* Calculator.swift in Sources */ = {isa = PBXBuildFile; fileRef = A80F746422AD23E100B0C205 /* Calculator.swift */; };
+		A86A54BC22C1E9D800CB342F /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = A86A54BB22C1E9D800CB342F /* .gitignore */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		A80F745F22AD20A300B0C205 /* CalculationModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalculationModel.swift; sourceTree = "<group>"; };
 		A80F746122AD20F600B0C205 /* CalculationPresenter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalculationPresenter.swift; sourceTree = "<group>"; };
 		A80F746422AD23E100B0C205 /* Calculator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Calculator.swift; sourceTree = "<group>"; };
+		A86A54BB22C1E9D800CB342F /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -44,6 +46,7 @@
 		A808E052229F66CC00944E04 = {
 			isa = PBXGroup;
 			children = (
+				A86A54BB22C1E9D800CB342F /* .gitignore */,
 				A808E05D229F66CC00944E04 /* Calculator */,
 				A808E05C229F66CC00944E04 /* Products */,
 			);
@@ -147,6 +150,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A86A54BC22C1E9D800CB342F /* .gitignore in Resources */,
 				A808E069229F66CD00944E04 /* LaunchScreen.storyboard in Resources */,
 				A808E066229F66CD00944E04 /* Assets.xcassets in Resources */,
 				A808E064229F66CC00944E04 /* Main.storyboard in Resources */,
